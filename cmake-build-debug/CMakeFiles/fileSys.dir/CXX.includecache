@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ingdex/CLionProjects/fileSys/filesys.cpp
+filesys.h
+/home/ingdex/CLionProjects/fileSys/filesys.h
+iostream
+-
+string
+-
+fstream
+-
+cstring
+-
+
+/home/ingdex/CLionProjects/fileSys/filesys.h
+iostream
+-
+fstream
+-
+time.h
+-
+stdio.h
+-
+
+/home/ingdex/CLionProjects/fileSys/main.cpp
+iostream
+-
+vector
+-
+filesys.h
+/home/ingdex/CLionProjects/fileSys/filesys.h
+

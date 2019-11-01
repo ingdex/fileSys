@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="fileSys" targetName="fileSys" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b406649e-bdf8-4788-ab5a-2e55fe74dc2e" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1S6NFQXnQCGJCbRBgZSP8pYPpo5" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/ClionProject/fileSys2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="fileSys" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="fileSys" TARGET_NAME="fileSys" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="fileSys" RUN_TARGET_NAME="fileSys">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b406649e-bdf8-4788-ab5a-2e55fe74dc2e" name="Default Changelist" comment="" />
+      <created>1570879981153</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570879981153</updated>
+      <workItem from="1570879990291" duration="383000" />
+      <workItem from="1570881188022" duration="79000" />
+      <workItem from="1570881365216" duration="211000" />
+      <workItem from="1571033640690" duration="2122000" />
+      <workItem from="1571141837358" duration="1529000" />
+      <workItem from="1571191286488" duration="7561000" />
+      <workItem from="1571226313688" duration="842000" />
+      <workItem from="1571634948990" duration="20840000" />
+      <workItem from="1571712454827" duration="22631000" />
+      <workItem from="1571798963680" duration="23941000" />
+      <workItem from="1571885027723" duration="26706000" />
+      <workItem from="1571965322828" duration="3784000" />
+      <workItem from="1572166407289" duration="738000" />
+      <workItem from="1572228409702" duration="13837000" />
+      <workItem from="1572409052407" duration="17460000" />
+      <workItem from="1572497251157" duration="32000" />
+      <workItem from="1572497321945" duration="19367000" />
+      <workItem from="1572570773372" duration="1207000" />
+      <workItem from="1572592019157" duration="43000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/filesys.cpp</url>
+          <line>295</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/main.cpp</url>
+          <line>39</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/filesys.cpp</url>
+          <line>749</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/filesys.cpp</url>
+          <line>423</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="CMakeRunConfiguration">
+        <watch expression="blockId" />
+        <watch expression="blockLeft" />
+        <watch expression="inodeLeft" />
+        <watch expression="inodeId" />
+        <watch expression="i" language="ObjectiveC" />
+        <watch expression="inodeBeg" language="ObjectiveC" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
